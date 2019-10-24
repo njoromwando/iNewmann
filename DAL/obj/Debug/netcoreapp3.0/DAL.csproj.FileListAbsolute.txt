@@ -1,0 +1,10 @@
+D:\Projects\iNewmann\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+D:\Projects\iNewmann\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+D:\Projects\iNewmann\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+D:\Projects\iNewmann\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+D:\Projects\iNewmann\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\Projects\iNewmann\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+D:\Projects\iNewmann\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+D:\Projects\iNewmann\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+D:\Projects\iNewmann\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+D:\Projects\iNewmann\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
