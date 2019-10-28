@@ -7,7 +7,6 @@
   <ItemGroup>
     <Folder Include="Exams\" />
     <Folder Include="Services\" />
-    <Folder Include="ViewModels\" />
     <Folder Include="Payroll\" />
   </ItemGroup>
 

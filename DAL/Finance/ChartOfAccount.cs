@@ -11,7 +11,6 @@ namespace DAL.Finance
         public string Description { get; set; }
         public string AccountGroup { get; set; }
         public string AccountSubGroup { get; set; }
-
     }
 
 }

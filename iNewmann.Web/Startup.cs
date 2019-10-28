@@ -31,7 +31,7 @@ namespace iNewmann.Web
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddTransient<IPOS, POS>();
-
+            services.AddTransient <IFinance, Finance>();
             services.AddDbContextPool<DataBaseContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"), b => b.MigrationsAssembly("iNewmann.Web")));
             services.AddControllers();
             services.AddSwaggerGen(c =>

@@ -144,3 +144,4 @@ D:\Projects\iNewmann\iNewmann.Web\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.Code
 D:\Projects\iNewmann\iNewmann.Web\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Projects\iNewmann\iNewmann.Web\obj\Debug\netcoreapp3.0\iNewmann.Web.MvcApplicationPartsAssemblyInfo.cs
 D:\Projects\iNewmann\iNewmann.Web\obj\Debug\netcoreapp3.0\iNewmann.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\iNewmann\iNewmann.Web\obj\Debug\netcoreapp3.0\Razor\Areas\POS\Views\POS\Products.cshtml.g.cs

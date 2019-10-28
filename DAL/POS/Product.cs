@@ -6,9 +6,10 @@ using System.Text;
 
 namespace DAL.POS
 {
-  public  class Product 
+    public  class Product 
     {
         [Key]
+        public int Recno { get; set; }
         public string Code { get; set; }
         public string CategoryCode { get; set; }
         public string Name { get; set; }
@@ -17,17 +18,10 @@ namespace DAL.POS
         public decimal Price { get; set; }
         public decimal SellPrice { get; set; }
         public decimal Vat { get; set; }
+        public string ImageUrl { get; set; }
         public string CreatedBy { get; set; }
+        public string LedgerCode { get; set; }
         public DateTime DateCreated { get; set; }
-    }
-
-    public class ProductCategory
-    {
-        [Key]
-        public string Code { get; set; }
-        public string Description { get; set; }
-        public string CreatedBy { get; set; }
-        public DateTime  DateCreated { get; set; }
     }
 
     public class VATCalculate
